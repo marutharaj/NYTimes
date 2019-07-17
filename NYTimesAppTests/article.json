@@ -1,0 +1,1501 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1922,
+    "results": [{
+                "url": "https:\/\/www.nytimes.com\/interactive\/2019\/11\/06\/us\/elections\/results-house-elections.html",
+                "adx_keywords": "2019 Election Results;Midterm Elections (2019)",
+                "column": "",
+                "section": "U.S.",
+                "byline": "",
+                "type": "Interactive",
+                "title": "Live U.S. House Election Results",
+                "abstract": "See live U.S. House results and maps.",
+                "published_date": "2019-11-06",
+                "source": "The New York Times",
+                "id": 100000006186230,
+                "asset_id": 100000006186230,
+                "views": 1,
+                "des_facet": ["MIDTERM ELECTIONS (2019)"],
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "",
+                          "copyright": "",
+                          "approved_for_syndication": 0,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-square320-v154.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-thumbStandard-v154.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-articleInline-v156.jpg",
+                                             "format": "Normal",
+                                             "height": 99,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-sfSpan-v154.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-jumbo-v156.jpg",
+                                             "format": "Jumbo",
+                                             "height": 536,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-superJumbo-v156.jpg",
+                                             "format": "superJumbo",
+                                             "height": 560,
+                                             "width": 1070
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-thumbLarge-v154.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-mediumThreeByTwo210-v154.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-mediumThreeByTwo440-v154.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/interactive\/2019\/11\/06\/us\/elections\/results-dashboard-live.html",
+                "adx_keywords": "2019 Election Results;Midterm Elections (2019)",
+                "column": "",
+                "section": "U.S.",
+                "byline": "",
+                "type": "Interactive",
+                "title": "Live Election Results Dashboard",
+                "abstract": "See full results and maps.",
+                "published_date": "2019-11-06",
+                "source": "The New York Times",
+                "id": 100000006197601,
+                "asset_id": 100000006197601,
+                "views": 2,
+                "des_facet": ["MIDTERM ELECTIONS (2019)"],
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "",
+                          "copyright": "",
+                          "approved_for_syndication": 0,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-square320-v2.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-thumbStandard-v2.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-articleInline-v2.jpg",
+                                             "format": "Normal",
+                                             "height": 99,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-sfSpan-v2.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-jumbo-v2.jpg",
+                                             "format": "Jumbo",
+                                             "height": 536,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-superJumbo-v2.jpg",
+                                             "format": "superJumbo",
+                                             "height": 560,
+                                             "width": 1070
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-thumbLarge-v2.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-mediumThreeByTwo210-v2.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-mediumThreeByTwo440-v2.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/interactive\/2019\/11\/06\/us\/elections\/results-senate-elections.html",
+                "adx_keywords": "2019 Election Results;Midterm Elections (2019)",
+                "column": "",
+                "section": "U.S.",
+                "byline": "",
+                "type": "Interactive",
+                "title": "Live U.S. Senate Election Results",
+                "abstract": "See live U.S. Senate results and maps.",
+                "published_date": "2019-11-06",
+                "source": "The New York Times",
+                "id": 100000006197592,
+                "asset_id": 100000006197592,
+                "views": 3,
+                "des_facet": ["MIDTERM ELECTIONS (2019)"],
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "",
+                          "copyright": "",
+                          "approved_for_syndication": 0,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-square320-v147.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-thumbStandard-v147.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-articleInline-v147.jpg",
+                                             "format": "Normal",
+                                             "height": 99,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-sfSpan-v147.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-jumbo-v147.jpg",
+                                             "format": "Jumbo",
+                                             "height": 536,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-superJumbo-v147.jpg",
+                                             "format": "superJumbo",
+                                             "height": 560,
+                                             "width": 1070
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-thumbLarge-v147.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-mediumThreeByTwo210-v147.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-mediumThreeByTwo440-v147.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/interactive\/2019\/11\/06\/us\/elections\/results-house-forecast.html",
+                "adx_keywords": "2019 Election Results;Midterm Elections (2019)",
+                "column": "",
+                "section": "U.S.",
+                "byline": "",
+                "type": "Interactive",
+                "title": "Live Forecast: Who Will Win the House?",
+                "abstract": "Live estimates of House control and seats by party, most likely starting around 7:30 p.m. or 8 p.m. Eastern time.",
+                "published_date": "2019-11-06",
+                "source": "The New York Times",
+                "id": 100000006197595,
+                "asset_id": 100000006197595,
+                "views": 4,
+                "des_facet": ["MIDTERM ELECTIONS (2019)"],
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": null,
+                          "copyright": null,
+                          "approved_for_syndication": 0,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 99,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 536,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 560,
+                                             "width": 1070
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/10\/21\/us\/politics\/transgender-trump-administration-sex-definition.html",
+                "adx_keywords": "Discrimination;Title IX (Gender Discrimination Legislation);United States Politics and Government;Transgender and Transsexuals;Civil Rights and Liberties;Health and Human Services Department",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By ERICA L. GREEN, KATIE BENNER and ROBERT PEAR",
+                "type": "Article",
+                "title": "\u2019Transgender\u2019 Could Be Defined Out of Existence Under Trump Administration",
+                "abstract": "The Trump administration is considering a legal definition of gender as immutable and fixed at birth, the most drastic in a series of moves against transgender people.",
+                "published_date": "2019-10-21",
+                "source": "The New York Times",
+                "id": 100000006162591,
+                "asset_id": 100000006162591,
+                "views": 5,
+                "des_facet": ["DISCRIMINATION", "TITLE IX (GENDER DISCRIMINATION LEGISLATION)", "UNITED STATES POLITICS AND GOVERNMENT"],
+                "org_facet": ["TRANSGENDER AND TRANSSEXUALS", "CIVIL RIGHTS AND LIBERTIES", "HEALTH AND HUMAN SERVICES DEPARTMENT"],
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "People protesting the Trump administration\u2019s policies toward gender and gay rights in New York last year.",
+                          "copyright": "Yana Paskova for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/22\/us\/politics\/21dc-trans1-print\/21dc-trans1-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/22\/us\/politics\/21dc-trans1-print\/21dc-trans1-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/22\/us\/politics\/21dc-trans1-print\/merlin_118592405_c8ae76c8-1a46-4ef3-9237-efe1e988e0a3-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 128,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/22\/us\/politics\/21dc-trans1-print\/21dc-trans1-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/22\/us\/politics\/21dc-trans1-print\/merlin_118592405_c8ae76c8-1a46-4ef3-9237-efe1e988e0a3-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 691,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/22\/us\/politics\/21dc-trans1-print\/merlin_118592405_c8ae76c8-1a46-4ef3-9237-efe1e988e0a3-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1382,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/22\/us\/politics\/21dc-trans1-print\/21dc-trans1-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/22\/us\/politics\/21dc-trans1-print\/21dc-trans1-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/22\/us\/politics\/21dc-trans1-print\/21dc-trans1-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/22\/us\/politics\/21dc-trans1-print\/21dc-trans1-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/10\/17\/world\/europe\/turkey-saudi-khashoggi-dismember.html",
+                "adx_keywords": "Saudi Arabia;Khashoggi, Jamal;Torture;Turkey;News and News Media;Assassinations and Attempted Assassinations",
+                "column": null,
+                "section": "World",
+                "byline": "By DAVID D. KIRKPATRICK and CARLOTTA GALL",
+                "type": "Article",
+                "title": "Audio Offers Gruesome Details of Jamal Khashoggi Killing, Turkish Official Says",
+                "abstract": "The Saudi journalist\u2019s fingers were severed and he was later beheaded, according to details from audio recordings published in the Turkish media.",
+                "published_date": "2019-10-17",
+                "source": "The New York Times",
+                "id": 100000006166139,
+                "asset_id": 100000006166139,
+                "views": 6,
+                "des_facet": ["ASSASSINATIONS AND ATTEMPTED ASSASSINATIONS"],
+                "org_facet": ["TORTURE", "NEWS AND NEWS MEDIA"],
+                "per_facet": ["KHASHOGGI, JAMAL"],
+                "geo_facet": ["SAUDI ARABIA", "TURKEY"],
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Turkish forensic and investigation officers at the Saudi Consulate in Istanbul on Wednesday.",
+                          "copyright": "Yasin Akgul\/Agence France-Presse &mdash; Getty Images",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/18\/world\/18turkey-tape-print\/18turkey-tape-1-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/18\/world\/18turkey-tape-print\/18turkey-tape-1-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/18\/world\/18turkey-tape-print\/merlin_145428591_5b36c4f9-7c76-4ca6-bc0d-cd2c9ac1099c-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 126,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/18\/world\/18turkey-tape-print\/18turkey-tape-1-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/18\/world\/18turkey-tape-print\/merlin_145428591_5b36c4f9-7c76-4ca6-bc0d-cd2c9ac1099c-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 682,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/18\/world\/18turkey-tape-print\/merlin_145428591_5b36c4f9-7c76-4ca6-bc0d-cd2c9ac1099c-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1363,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/18\/world\/18turkey-tape-print\/18turkey-tape-1-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/18\/world\/18turkey-tape-print\/18turkey-tape-1-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/18\/world\/18turkey-tape-print\/18turkey-tape-1-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/18\/world\/18turkey-tape-print\/18turkey-tape-1-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/10\/14\/us\/hurricane-michael-florida-mexico-beach-house.html",
+                "adx_keywords": "Hurricane Michael (2019);Mexico Beach (Fla);Real Estate and Housing (Residential);Building (Construction);Wind;Florida Panhandle;Global Warming",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By PATRICIA MAZZEI",
+                "type": "Article",
+                "title": "Among the Ruins of Mexico Beach Stands One House, Built \u2019for the Big One\u2019",
+                "abstract": "Hurricane Michael wrecked every other beachfront house on the block, but one came through the storm nearly pristine, as if protected by grace. How did it survive?",
+                "published_date": "2019-10-14",
+                "source": "The New York Times",
+                "id": 100000006160692,
+                "asset_id": 100000006160692,
+                "views": 7,
+                "des_facet": ["HURRICANE MICHAEL (2019)", "REAL ESTATE AND HOUSING (RESIDENTIAL)", "WIND", "GLOBAL WARMING"],
+                "org_facet": ["BUILDING (CONSTRUCTION)"],
+                "per_facet": "",
+                "geo_facet": ["MEXICO BEACH (FLA)", "FLORIDA PANHANDLE"],
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "The elevated house that the owners call the Sand Palace, on 36th Street in Mexico Beach, Fla., came through Hurricane Michael almost unscathed.",
+                          "copyright": "Johnny Milano for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15MICHAEL-HOUSE-1\/15MICHAEL-HOUSE-1-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15MICHAEL-HOUSE-1\/15MICHAEL-HOUSE-1-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15MICHAEL-HOUSE-1\/15MICHAEL-HOUSE-1-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 141,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15MICHAEL-HOUSE-1\/15MICHAEL-HOUSE-1-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15MICHAEL-HOUSE-1\/15MICHAEL-HOUSE-1-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 762,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15MICHAEL-HOUSE-1\/15MICHAEL-HOUSE-1-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1524,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15MICHAEL-HOUSE-1\/15MICHAEL-HOUSE-1-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15MICHAEL-HOUSE-1\/15MICHAEL-HOUSE-1-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15MICHAEL-HOUSE-1\/15MICHAEL-HOUSE-1-mediumThreeByTwo210-v6.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15MICHAEL-HOUSE-1\/15MICHAEL-HOUSE-1-mediumThreeByTwo440-v6.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/10\/27\/us\/active-shooter-pittsburgh-synagogue-shooting.html",
+                "adx_keywords": "Pittsburgh, Pa, Shooting (2019);Hate Crimes;Anti-Semitism;Tree of Life (Pittsburgh, Pa, Synagogue);Pittsburgh (Pa);Synagogues;Bowers, Robert D (1972- );Murders, Attempted Murders and Homicides",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By CAMPBELL ROBERTSON, CHRISTOPHER MELE and SABRINA TAVERNISE",
+                "type": "Article",
+                "title": "11 Killed in Synagogue Massacre; Suspect Charged With 29 Counts",
+                "abstract": "The suspect in the Saturday morning attack, identified as Robert D. Bowers, 46, was in custody, law enforcement officials said. At least 11 people were reported killed.",
+                "published_date": "2019-10-27",
+                "source": "The New York Times",
+                "id": 100000006184071,
+                "asset_id": 100000006184071,
+                "views": 8,
+                "des_facet": ["PITTSBURGH, PA, SHOOTING (2019)", "SYNAGOGUES", "MURDERS, ATTEMPTED MURDERS AND HOMICIDES"],
+                "org_facet": ["HATE CRIMES", "ANTI-SEMITISM", "TREE OF LIFE (PITTSBURGH, PA, SYNAGOGUE)"],
+                "per_facet": ["BOWERS, ROBERT D (1972- )"],
+                "geo_facet": ["PITTSBURGH (PA)"],
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Flowers left outside the Tree of Life synagogue in Pittsburgh. A mass shooting there on Saturday left 11 people dead and six others injured, including two congregants and four police officers.",
+                          "copyright": "Brendan Smialowski\/Agence France-Presse \u2014 Getty Images",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/29\/us\/29SYNAGOGUE-1\/29SYNAGOGUE-1-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/29\/us\/29SYNAGOGUE-1\/29SYNAGOGUE-1-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/29\/us\/29SYNAGOGUE-1\/merlin_145976457_06450cab-2a28-4332-8ad1-6a4ded3bc66d-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/29\/us\/29SYNAGOGUE-1\/merlin_145976457_06450cab-2a28-4332-8ad1-6a4ded3bc66d-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/29\/us\/29SYNAGOGUE-1\/merlin_145976457_06450cab-2a28-4332-8ad1-6a4ded3bc66d-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/29\/us\/29SYNAGOGUE-1\/merlin_145976457_06450cab-2a28-4332-8ad1-6a4ded3bc66d-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1365,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/29\/us\/29SYNAGOGUE-1\/29SYNAGOGUE-1-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/29\/us\/29SYNAGOGUE-1\/29SYNAGOGUE-1-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/29\/us\/29SYNAGOGUE-1\/merlin_145976457_06450cab-2a28-4332-8ad1-6a4ded3bc66d-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/29\/us\/29SYNAGOGUE-1\/merlin_145976457_06450cab-2a28-4332-8ad1-6a4ded3bc66d-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/interactive\/2019\/10\/11\/nyregion\/sex-workers-massage-parlor.html",
+                "adx_keywords": "",
+                "column": "",
+                "section": "New York",
+                "byline": "",
+                "type": "Interactive",
+                "title": "The Case of Jane Doe Ponytail",
+                "abstract": "She moved to Flushing, Queens, with dreams of success and citizenship. Now she was crumpled outside a massage parlor on 40th Road, her blood pooling on the pavement she had so often worked.",
+                "published_date": "2019-10-11",
+                "source": "The New York Times",
+                "id": 100000006157485,
+                "asset_id": 100000006157485,
+                "views": 9,
+                "des_facet": "",
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "\u201cFeeling depressed for a long time,\u201d Song Yang, known on 40th Road as SiSi, posted. \u201cComing out to bask in the sunshine.\u201d",
+                          "copyright": "Todd Heisler\/The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/14\/nyregion\/14flushing-cover2\/14flushing-cover2-square320-v2.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/14\/nyregion\/14flushing-cover2\/14flushing-cover2-thumbStandard-v2.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/14\/nyregion\/14flushing-cover2\/flushing-death-images-slide-HACM-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/14\/nyregion\/14flushing-cover2\/14flushing-cover2-sfSpan-v2.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/14\/nyregion\/14flushing-cover2\/flushing-death-images-slide-HACM-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/14\/nyregion\/14flushing-cover2\/flushing-death-images-slide-HACM-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1365,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/14\/nyregion\/14flushing-cover2\/14flushing-cover2-square640-v2.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/14\/nyregion\/14flushing-cover2\/14flushing-cover2-thumbLarge-v2.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/14\/nyregion\/14flushing-cover2\/14flushing-cover2-mediumThreeByTwo210-v2.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/14\/nyregion\/14flushing-cover2\/14flushing-cover2-mediumThreeByTwo440-v2.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/10\/26\/nyregion\/cnn-cory-booker-pipe-bombs-sent.html",
+                "adx_keywords": "Sayoc, Cesar A (1962- );Bombs and Explosives;Postal Service and Post Offices;Terrorism;News and News Media;Democratic Party;Trump, Donald J;United States Politics and Government",
+                "column": null,
+                "section": "New York",
+                "byline": "By WILLIAM K. RASHBAUM, ALAN FEUER and ADAM GOLDMAN",
+                "type": "Article",
+                "title": "Outspoken Trump Supporter in Florida Charged in Attempted Bombing Spree",
+                "abstract": "The suspect was identified as Cesar Sayoc Jr., 56, of Aventura, Fla. Attorney General Jeff Sessions said he \u201cappears to be a partisan.\u201d",
+                "published_date": "2019-10-26",
+                "source": "The New York Times",
+                "id": 100000006182165,
+                "asset_id": 100000006182165,
+                "views": 10,
+                "des_facet": ["BOMBS AND EXPLOSIVES", "POSTAL SERVICE AND POST OFFICES", "UNITED STATES POLITICS AND GOVERNMENT"],
+                "org_facet": ["TERRORISM", "NEWS AND NEWS MEDIA", "DEMOCRATIC PARTY"],
+                "per_facet": ["SAYOC, CESAR A (1962- )", "TRUMP, DONALD J"],
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "A package addressed to James R. Clapper Jr., the former director of national intelligence, was meant to be delivered to the New York offices of CNN, but was intercepted at a mail facility in Midtown Manhattan on Friday, police officials said.",
+                          "copyright": "Jeenah Moon for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/nyregion\/27bombs21\/27bombs21-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/nyregion\/27bombs21\/27bombs21-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/nyregion\/27bombs21\/27bombs21-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/nyregion\/27bombs21\/27bombs21-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/nyregion\/27bombs21\/27bombs21-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 682,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/nyregion\/27bombs21\/27bombs21-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1365,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/nyregion\/27bombs21\/27bombs21-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/nyregion\/27bombs21\/27bombs21-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/nyregion\/27bombs21\/27bombs21-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/nyregion\/27bombs21\/27bombs21-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/10\/26\/style\/phones-children-silicon-valley.html",
+                "adx_keywords": "Computers and the Internet;Children and Childhood;Parenting",
+                "column": null,
+                "section": "Style",
+                "byline": "By NELLIE BOWLES",
+                "type": "Article",
+                "title": "A Dark Consensus About Screens and Kids Begins to Emerge in Silicon Valley",
+                "abstract": "\u201cI am convinced the devil lives in our phones.\u201d",
+                "published_date": "2019-10-26",
+                "source": "The New York Times",
+                "id": 100000006154896,
+                "asset_id": 100000006154896,
+                "views": 11,
+                "des_facet": ["COMPUTERS AND THE INTERNET", "CHILDREN AND CHILDHOOD"],
+                "org_facet": ["PARENTING"],
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "",
+                          "copyright": "Photo Illustration by Tracy Ma\/The New York Times; Getty Images (woman and child)",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/28\/fashion\/26NoTech-1\/26NoTech-1-square320-v2.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/28\/fashion\/26NoTech-1\/XX-screens-1-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/28\/fashion\/26NoTech-1\/26NoTech-1-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 258,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/28\/fashion\/26NoTech-1\/26NoTech-1-sfSpan-v2.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/28\/fashion\/26NoTech-1\/XX-screens-1-jumbo.gif",
+                                             "format": "Jumbo",
+                                             "height": 750,
+                                             "width": 600
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/28\/fashion\/26NoTech-1\/XX-screens-1-superJumbo.gif",
+                                             "format": "superJumbo",
+                                             "height": 750,
+                                             "width": 600
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/28\/fashion\/26NoTech-1\/26NoTech-1-square640-v2.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/28\/fashion\/26NoTech-1\/XX-screens-1-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/28\/fashion\/26NoTech-1\/26NoTech-1-mediumThreeByTwo210-v2.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/28\/fashion\/26NoTech-1\/26NoTech-1-mediumThreeByTwo440-v2.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/10\/07\/climate\/ipcc-climate-report-2040.html",
+                "adx_keywords": "Global Warming;Environment;Greenhouse Gas Emissions;Carbon Dioxide;Coal;United States Politics and Government;Intergovernmental Panel on Climate Change;Trump, Donald J",
+                "column": null,
+                "section": "Climate",
+                "byline": "By CORAL DAVENPORT",
+                "type": "Article",
+                "title": "Major Climate Report Describes a Strong Risk of Crisis as Early as 2040",
+                "abstract": "A landmark United Nations report paints a far more dire picture of the immediate consequences of climate change than previously thought and says that avoiding damage requires quickly transforming the world economy.",
+                "published_date": "2019-10-07",
+                "source": "The New York Times",
+                "id": 100000006149028,
+                "asset_id": 100000006149028,
+                "views": 12,
+                "des_facet": ["GLOBAL WARMING", "ENVIRONMENT", "GREENHOUSE GAS EMISSIONS", "CARBON DIOXIDE", "COAL"],
+                "org_facet": ["UNITED STATES POLITICS AND GOVERNMENT", "INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE"],
+                "per_facet": ["TRUMP, DONALD J"],
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Harry Taylor, 6, played with the bones of dead livestock on his family\u2019s farm in New South Wales, Australia, an area that has faced severe drought.",
+                          "copyright": "Brook Mitchell\/Getty Images",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/08\/climate\/08cli-heat1\/08cli-heat1-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/08\/climate\/08cli-heat1\/08cli-heat1-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/08\/climate\/08cli-heat1\/merlin_141839034_fbe42137-8a08-406c-966d-915fe9f49913-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/08\/climate\/08cli-heat1\/merlin_141839034_fbe42137-8a08-406c-966d-915fe9f49913-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/08\/climate\/08cli-heat1\/merlin_141839034_fbe42137-8a08-406c-966d-915fe9f49913-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/08\/climate\/08cli-heat1\/merlin_141839034_fbe42137-8a08-406c-966d-915fe9f49913-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1365,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/08\/climate\/08cli-heat1\/08cli-heat1-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/08\/climate\/08cli-heat1\/08cli-heat1-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/08\/climate\/08cli-heat1\/merlin_141839034_fbe42137-8a08-406c-966d-915fe9f49913-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/08\/climate\/08cli-heat1\/merlin_141839034_fbe42137-8a08-406c-966d-915fe9f49913-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/11\/02\/world\/africa\/nigeria-trump-rocks.html",
+                "adx_keywords": "Nigeria;Defense and Military Forces;Demonstrations, Protests and Riots;Human Rights and Human Rights Violations;Trump, Donald J;United States International Relations",
+                "column": "",
+                "section": "World",
+                "byline": "By DIONNE SEARCEY and EMMANUEL AKINWOTU",
+                "type": "Article",
+                "title": "Nigerian Army Uses Trump\u2019s Words to Justify Fatal Shooting of Rock-Throwing Protesters",
+                "abstract": "President Trump said rocks would be considered firearms if thrown at the American military. The Nigerian Army pointed to that language when explaining why its soldiers fatally shot protesters.",
+                "published_date": "2019-11-02",
+                "source": "The New York Times",
+                "id": 100000006194603,
+                "asset_id": 100000006194603,
+                "views": 13,
+                "des_facet": ["DEFENSE AND MILITARY FORCES", "UNITED STATES INTERNATIONAL RELATIONS"],
+                "org_facet": ["DEMONSTRATIONS, PROTESTS AND RIOTS", "HUMAN RIGHTS AND HUMAN RIGHTS VIOLATIONS"],
+                "per_facet": ["TRUMP, DONALD J"],
+                "geo_facet": ["NIGERIA"],
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Members of the Islamic Movement of Nigeria preparing the bodies of members killed when the Nigerian Army opened fire during the group&rsquo;s protests in the capital Abuja this week.",
+                          "copyright": "Afolabi Sotunde\/Reuters",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/03\/world\/03nigeria-print\/merlin_146139759_7a84b744-c926-49b4-9667-ed10b269d388-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/03\/world\/03nigeria-print\/merlin_146139759_7a84b744-c926-49b4-9667-ed10b269d388-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/03\/world\/03nigeria-print\/merlin_146139759_7a84b744-c926-49b4-9667-ed10b269d388-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/03\/world\/03nigeria-print\/merlin_146139759_7a84b744-c926-49b4-9667-ed10b269d388-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/03\/world\/03nigeria-print\/merlin_146139759_7a84b744-c926-49b4-9667-ed10b269d388-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 684,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/03\/world\/03nigeria-print\/merlin_146139759_7a84b744-c926-49b4-9667-ed10b269d388-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1369,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/03\/world\/03nigeria-print\/merlin_146139759_7a84b744-c926-49b4-9667-ed10b269d388-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/03\/world\/03nigeria-print\/merlin_146139759_7a84b744-c926-49b4-9667-ed10b269d388-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/03\/world\/03nigeria-print\/03nigeria1-mediumThreeByTwo210-v2.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/03\/world\/03nigeria-print\/03nigeria1-mediumThreeByTwo440-v2.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/interactive\/2019\/10\/11\/style\/this-is-18.html",
+                "adx_keywords": "Education (K-12);Women and Girls;Photography;Women's Rights;Social Media;Youth;Slang;Instagram Inc;Spears, Britney;Yousafzai, Malala;Cleopatra;Williams, Serena;Victoria, Queen of Great Britain;Australia;Bangladesh;Berlin (Germany);Bronx (NYC);China;Chengdu (China);Cuba;Delhi (India);United States;South Korea;Russia;Norway;Nairobi (Kenya);Montreal (Quebec);Mississippi;Mexico;Melbourne (Australia);Los Angeles (Calif);Israel;West Bank;Gaza Strip;Germany;Great Britain",
+                "column": "",
+                "section": "Style",
+                "byline": "By JESSICA BENNETT and ANYA STRZEMIEN",
+                "type": "Interactive",
+                "title": "This is 18 Around the World \u2014 Through Girls\u2019 Eyes",
+                "abstract": "What does life look like for girls turning 18 in 2019? We gave young women photographers around the world an assignment: Show us 18 in your community. This is 18 \u2014 through girls\u2019 eyes.",
+                "published_date": "2019-10-11",
+                "source": "The New York Times",
+                "id": 100000006145659,
+                "asset_id": 100000006145659,
+                "views": 14,
+                "des_facet": ["EDUCATION (K-12)", "WOMEN AND GIRLS"],
+                "org_facet": ["PHOTOGRAPHY", "WOMEN'S RIGHTS", "SOCIAL MEDIA", "YOUTH", "SLANG", "INSTAGRAM INC"],
+                "per_facet": ["SPEARS, BRITNEY", "YOUSAFZAI, MALALA", "CLEOPATRA", "WILLIAMS, SERENA", "VICTORIA, QUEEN OF GREAT BRITAIN"],
+                "geo_facet": ["AUSTRALIA", "BANGLADESH", "BERLIN (GERMANY)", "BRONX (NYC)", "CHINA", "CHENGDU (CHINA)", "CUBA", "DELHI (INDIA)", "UNITED STATES", "SOUTH KOREA", "RUSSIA", "NORWAY", "NAIROBI (KENYA)", "MONTREAL (QUEBEC)", "MISSISSIPPI", "MEXICO", "MELBOURNE (AUSTRALIA)", "LOS ANGELES (CALIF)", "ISRAEL", "WEST BANK", "GAZA STRIP", "GERMANY", "GREAT BRITAIN"],
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "",
+                          "copyright": "",
+                          "approved_for_syndication": 0,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/11\/style\/11ThisIs18-promo-still-1\/11ThisIs18-promo-still-1-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/11\/style\/11ThisIs18-promo-still-1\/11ThisIs18-promo-still-1-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/11\/style\/11ThisIs18-promo-still-1\/11ThisIs18-promo-still-1-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 190,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/11\/style\/11ThisIs18-promo-still-1\/11ThisIs18-promo-still-1-sfSpan-v2.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/11\/style\/11ThisIs18-promo-still-1\/11ThisIs18-promo-still-1-jumbo-v3.jpg",
+                                             "format": "Jumbo",
+                                             "height": 1024,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/11\/style\/11ThisIs18-promo-still-1\/11ThisIs18-promo-still-1-superJumbo-v3.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1920,
+                                             "width": 1920
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/11\/style\/11ThisIs18-promo-still-1\/11ThisIs18-promo-still-1-square640-v2.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/11\/style\/11ThisIs18-promo-still-1\/11ThisIs18-promo-still-1-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/11\/style\/11ThisIs18-promo-still-1\/11ThisIs18-promo-still-1-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/11\/style\/11ThisIs18-promo-still-1\/11ThisIs18-promo-still-1-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/10\/24\/nyregion\/clinton-obama-explosive-device.html",
+                "adx_keywords": "Bombs and Explosives;Clinton, Hillary Rodham;Soros, George;Clinton, Bill;Obama, Barack;CNN;De Niro, Robert;Brennan, John O;Holder, Eric H Jr;Schultz, Debbie Wasserman;Waters, Maxine",
+                "column": null,
+                "section": "New York",
+                "byline": "By WILLIAM K. RASHBAUM",
+                "type": "Article",
+                "title": "Hillary Clinton, Barack Obama and CNN Offices Are Sent Pipe Bombs",
+                "abstract": "The similar devices set off an intense investigation into whether a bomber is going after people who have often faced barbed right-wing criticism.",
+                "published_date": "2019-10-24",
+                "source": "The New York Times",
+                "id": 100000006177826,
+                "asset_id": 100000006177826,
+                "views": 15,
+                "des_facet": ["BOMBS AND EXPLOSIVES"],
+                "org_facet": ["CNN"],
+                "per_facet": ["CLINTON, HILLARY RODHAM", "SOROS, GEORGE", "CLINTON, BILL", "OBAMA, BARACK", "DE NIRO, ROBERT", "BRENNAN, JOHN O", "HOLDER, ERIC H JR", "SCHULTZ, DEBBIE WASSERMAN", "WATERS, MAXINE"],
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "The Time Warner Center, home to CNN\u2019s New York offices, was evacuated after an explosive device was sent there.",
+                          "copyright": "Jeenah Moon for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/25\/us\/25CLINTON-promo\/25CLINTON-promo-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/25\/us\/25CLINTON-promo\/25CLINTON-promo-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/25\/us\/25CLINTON-promo\/merlin_145776255_0e7253d6-004b-40f3-b126-bb59339ed31a-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/25\/us\/25CLINTON-promo\/merlin_145776255_0e7253d6-004b-40f3-b126-bb59339ed31a-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/25\/us\/25CLINTON-promo\/merlin_145776255_0e7253d6-004b-40f3-b126-bb59339ed31a-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/25\/us\/25CLINTON-promo\/merlin_145776255_0e7253d6-004b-40f3-b126-bb59339ed31a-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1365,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/25\/us\/25CLINTON-promo\/25CLINTON-promo-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/25\/us\/25CLINTON-promo\/25CLINTON-promo-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/25\/us\/25CLINTON-promo\/merlin_145776255_0e7253d6-004b-40f3-b126-bb59339ed31a-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/25\/us\/25CLINTON-promo\/merlin_145776255_0e7253d6-004b-40f3-b126-bb59339ed31a-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/interactive\/2019\/us\/elections\/calendar-primary-results.html",
+                "adx_keywords": "Midterm Elections (2019);Primaries and Caucuses;Elections, Senate;Elections, House of Representatives;Elections, Governors;Elections, State Legislature",
+                "column": "",
+                "section": "U.S.",
+                "byline": "By THE NEW YORK TIMES",
+                "type": "Interactive",
+                "title": "2019 Midterm Election Results",
+                "abstract": "A full list of elections for the House and Senate, including which races matter most for congressional control.",
+                "published_date": "2019-01-23",
+                "source": "The New York Times",
+                "id": 100000005695762,
+                "asset_id": 100000005695762,
+                "views": 16,
+                "des_facet": ["MIDTERM ELECTIONS (2019)", "PRIMARIES AND CAUCUSES", "ELECTIONS, SENATE", "ELECTIONS, HOUSE OF REPRESENTATIVES", "ELECTIONS, GOVERNORS", "ELECTIONS, STATE LEGISLATURE"],
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": null,
+                          "copyright": null,
+                          "approved_for_syndication": 0,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-square320.png",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-thumbStandard.png",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-articleInline.png",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-sfSpan.png",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-jumbo.png",
+                                             "format": "Jumbo",
+                                             "height": 683,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-superJumbo.png",
+                                             "format": "superJumbo",
+                                             "height": 1366,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-square640.png",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-thumbLarge.png",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-mediumThreeByTwo210.png",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-mediumThreeByTwo440.png",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/10\/26\/obituaries\/tyrone-gayle-cancer-kamala-harris.html",
+                "adx_keywords": "Gayle, Tyrone (1987-2019);Deaths (Obituaries);United States Politics and Government;Harris, Kamala D;Senate",
+                "column": null,
+                "section": "Obituaries",
+                "byline": "By NIRAJ CHOKSHI",
+                "type": "Article",
+                "title": "Tyrone Gayle, 30, Spokesman for Senators and Hillary Clinton, Dies",
+                "abstract": "Mr. Gayle, Senator Kamala Harris\u2019s press secretary, had worked on Mrs. Clinton\u2019s 2016 presidential campaign and Tim Kaine\u2019s 2012 Senate campaign.",
+                "published_date": "2019-10-26",
+                "source": "The New York Times",
+                "id": 100000006182855,
+                "asset_id": 100000006182855,
+                "views": 17,
+                "des_facet": ["UNITED STATES POLITICS AND GOVERNMENT"],
+                "org_facet": ["DEATHS (OBITUARIES)", "SENATE"],
+                "per_facet": ["GAYLE, TYRONE (1987-2019)", "HARRIS, KAMALA D"],
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Tyrone Gayle at his wedding to Beth Foster in May. He worked for Hillary Clinton&rsquo;s 2016 campaign as well as for Senators Kamala Harris and Tim Kaine.",
+                          "copyright": "Gayle Family",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/obituaries\/27xp-gayle-obit\/27xp-gayle-obit-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/obituaries\/27xp-gayle-obit\/27xp-gayle-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/obituaries\/27xp-gayle-obit\/27xp-gayle-obit-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 185,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/obituaries\/27xp-gayle-obit\/27xp-gayle-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/obituaries\/27xp-gayle-obit\/27xp-gayle-obit-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 998,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/obituaries\/27xp-gayle-obit\/27xp-gayle-obit-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1996,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/obituaries\/27xp-gayle-obit\/27xp-gayle-obit-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/obituaries\/27xp-gayle-obit\/27xp-gayle-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/obituaries\/27xp-gayle-obit\/27xp-gayle-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/27\/obituaries\/27xp-gayle-obit\/27xp-gayle-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/10\/15\/us\/hilary-brooke-apartment-patty-st-louis.html",
+                "adx_keywords": "Blacks;Discrimination;Real Estate and Housing (Residential);Video Recordings, Downloads and Streaming;St Louis (Mo);Mueller, Hilary Brooke;Toles, D'Arreion",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By MELISSA GOMEZ",
+                "type": "Article",
+                "title": "White Woman Who Blocked Black Neighbor From Building Is Fired",
+                "abstract": "First she blocked his entry to the St. Louis building, demanding proof that he lived there. Then she followed him. And then the police showed up.",
+                "published_date": "2019-10-15",
+                "source": "The New York Times",
+                "id": 100000006160738,
+                "asset_id": 100000006160738,
+                "views": 18,
+                "des_facet": ["BLACKS", "REAL ESTATE AND HOUSING (RESIDENTIAL)", "VIDEO RECORDINGS, DOWNLOADS AND STREAMING"],
+                "org_facet": ["DISCRIMINATION"],
+                "per_facet": ["MUELLER, HILARY BROOKE", "TOLES, D'ARREION"],
+                "geo_facet": ["ST LOUIS (MO)"],
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Hilary Brooke Mueller as seen in a video taken by D\u2019Arreion Toles. Mr. Toles, who is black, posted videos showing Ms. Mueller blocking him from entering the building where he lives and then following him to his unit.",
+                          "copyright": "D'Arreion Toles, via Facebook",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15xp-apartment\/15xp-apartment-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15xp-apartment\/15xp-apartment-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15xp-apartment\/15xp-apartment-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 231,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15xp-apartment\/15xp-apartment-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15xp-apartment\/15xp-apartment-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 1024,
+                                             "width": 842
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15xp-apartment\/15xp-apartment-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 2048,
+                                             "width": 1683
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15xp-apartment\/15xp-apartment-square640.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15xp-apartment\/15xp-apartment-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15xp-apartment\/15xp-apartment-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/15\/us\/15xp-apartment\/15xp-apartment-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/interactive\/2019\/11\/06\/us\/elections\/results-california-elections.html",
+                "adx_keywords": "2019 Election Results;Midterm Elections (2019)",
+                "column": "",
+                "section": "U.S.",
+                "byline": "",
+                "type": "Interactive",
+                "title": "California Election Results",
+                "abstract": "See full results and maps from the California midterm elections.",
+                "published_date": "2019-11-06",
+                "source": "The New York Times",
+                "id": 100000006197611,
+                "asset_id": 100000006197611,
+                "views": 19,
+                "des_facet": ["MIDTERM ELECTIONS (2019)"],
+                "org_facet": "",
+                "per_facet": "",
+                "geo_facet": "",
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": null,
+                          "copyright": null,
+                          "approved_for_syndication": 0,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-square320.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-thumbStandard.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 99,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-sfSpan.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-jumbo.jpg",
+                                             "format": "Jumbo",
+                                             "height": 536,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-superJumbo.jpg",
+                                             "format": "superJumbo",
+                                             "height": 560,
+                                             "width": 1070
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-thumbLarge.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-mediumThreeByTwo210.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-mediumThreeByTwo440.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }, {
+                "url": "https:\/\/www.nytimes.com\/2019\/05\/22\/us\/politics\/georgia-primary-abrams-results.html",
+                "adx_keywords": "Abrams, Stacey Y;Georgia;Midterm Elections (2019);Elections, Governors;Blacks;Evans, Stacey Godfrey;Race and Ethnicity",
+                "column": null,
+                "section": "U.S.",
+                "byline": "By JONATHAN MARTIN and ALEXANDER BURNS",
+                "type": "Article",
+                "title": "Stacey Abrams Wins Georgia Democratic Primary for Governor, Making History",
+                "abstract": "Ms. Abrams is the first black woman in the U.S. to be a major party\u2019s nominee for governor. A Democrat, Ms. Abrams will test just how much the state\u2019s conservative politics are shifting.",
+                "published_date": "2019-05-22",
+                "source": "The New York Times",
+                "id": 100000005911830,
+                "asset_id": 100000005911830,
+                "views": 20,
+                "des_facet": ["MIDTERM ELECTIONS (2019)", "BLACKS"],
+                "org_facet": ["ELECTIONS, GOVERNORS", "RACE AND ETHNICITY"],
+                "per_facet": ["ABRAMS, STACEY Y", "EVANS, STACEY GODFREY"],
+                "geo_facet": ["GEORGIA"],
+                "media": [{
+                          "type": "image",
+                          "subtype": "photo",
+                          "caption": "Stacey Abrams at her election night watch party in Atlanta, after winning the Democratic primary in Georgia on Tuesday.",
+                          "copyright": "Melissa Golden for The New York Times",
+                          "approved_for_syndication": 1,
+                          "media-metadata": [{
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/23\/us\/23abrams-hp\/23abrams-hp-square320-v2.jpg",
+                                             "format": "square320",
+                                             "height": 320,
+                                             "width": 320
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/23\/us\/23abrams-hp\/23abrams-hp-thumbStandard-v2.jpg",
+                                             "format": "Standard Thumbnail",
+                                             "height": 75,
+                                             "width": 75
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/23\/us\/23abrams-hp\/23abrams-hp-articleInline.jpg",
+                                             "format": "Normal",
+                                             "height": 127,
+                                             "width": 190
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/23\/us\/23abrams-hp\/23abrams-hp-sfSpan-v2.jpg",
+                                             "format": "Large",
+                                             "height": 263,
+                                             "width": 395
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/23\/us\/23abrams-hp\/23abrams-hp-jumbo-v2.jpg",
+                                             "format": "Jumbo",
+                                             "height": 682,
+                                             "width": 1024
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/23\/us\/23abrams-hp\/23abrams-hp-superJumbo-v2.jpg",
+                                             "format": "superJumbo",
+                                             "height": 1364,
+                                             "width": 2048
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/23\/us\/23abrams-hp\/23abrams-hp-square640-v2.jpg",
+                                             "format": "square640",
+                                             "height": 640,
+                                             "width": 640
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/23\/us\/23abrams-hp\/23abrams-hp-thumbLarge-v2.jpg",
+                                             "format": "Large Thumbnail",
+                                             "height": 150,
+                                             "width": 150
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/23\/us\/23abrams-hp\/23abrams-hp-mediumThreeByTwo210-v3.jpg",
+                                             "format": "mediumThreeByTwo210",
+                                             "height": 140,
+                                             "width": 210
+                                             }, {
+                                             "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/23\/us\/23abrams-hp\/23abrams-hp-mediumThreeByTwo440-v3.jpg",
+                                             "format": "mediumThreeByTwo440",
+                                             "height": 293,
+                                             "width": 440
+                                             }]
+                          }]
+                }]
+}
