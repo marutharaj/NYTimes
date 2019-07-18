@@ -1,5 +1,5 @@
 //
-//  ServiceConstants.swift
+//  ServiceConfiguration.swift
 //  NYTimesApp
 //
 //  Created by Marutharaj Kuppusamy on 17/07/19.
@@ -8,7 +8,7 @@
 
 import Foundation
 
-class ServiceConstants {
+struct ServiceConfiguration {
     
     // MARK: List of Constants
     

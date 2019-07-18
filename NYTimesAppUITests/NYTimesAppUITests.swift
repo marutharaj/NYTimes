@@ -2,7 +2,7 @@
 //  NYTimesAppUITests.swift
 //  NYTimesAppUITests
 //
-//  Created by Marutharaj Kuppusamy on 17/07/19.
+//  Created by Marutharaj Kuppusamy on 18/07/19.
 //  Copyright © 2019 ta. All rights reserved.
 //
 
@@ -15,13 +15,13 @@ class NYTimesAppUITests: XCTestCase {
         super.setUp()
         
         // Put setup code here. This method is called before the invocation of each test method in the class.
-       sessionUnderTest = URLSession(configuration: URLSessionConfiguration.default)
+        sessionUnderTest = URLSession(configuration: URLSessionConfiguration.default)
         
         // In UI tests it is usually best to stop immediately when a failure occurs.
         continueAfterFailure = false
         // UI tests must launch the application that they test. Doing this in setup will make sure it happens for each test method.
         XCUIApplication().launch()
-
+        
         // In UI tests it’s important to set the initial state - such as interface orientation - required for your tests before they run. The setUp method is a good place to do this.
     }
     
@@ -34,9 +34,9 @@ class NYTimesAppUITests: XCTestCase {
     // Test Article Service
     func testArticleService() {
         // given
-        let methodName: String = "all-sections/7.json"
-        let queryString: String = "?api-key=f672bdce0aa744e7867bf16d9642b53a"
-        let url = URL(string: "http://api.nytimes.com/svc/mostpopular/v2/mostviewed/" + methodName + queryString)
+        let methodName: String = "7.json"
+        let queryString: String = "?api-key=LJiIOeA7ZGvTIeSFsP4AFXA78mhKob5X"
+        let url = URL(string: "https://api.nytimes.com/svc/mostpopular/v2/viewed/" + methodName + queryString)
         
         let promise = expectation(description: "Status code: 200")
         
@@ -75,7 +75,7 @@ class NYTimesAppUITests: XCTestCase {
         
         let navigationBarMoreRightButton = app.navigationBars["articleNavigationBar"].buttons["articleNavigationBarMoreButton"]
         XCTAssertTrue(navigationBarMoreRightButton.exists, "Article navigation bar more button does not exist")
-    
+        
         let table = app.tables["articleTableView"]
         XCTAssertTrue(table.exists, "Article table does not exist")
     }

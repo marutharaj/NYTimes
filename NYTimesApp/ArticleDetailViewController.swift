@@ -23,11 +23,11 @@ class ArticleDetailViewController: UIViewController, WKNavigationDelegate {
     private func setupView() {
 
         if let article = article {
-            self.articleTitleLabel.text = "Title: \(article.title ?? "NA")"
-            self.articleDescriptionLabel.text = "Description: \(article.abstract  ?? "NA")"
-            self.articlePublishedDateLabel.text = "Published Date: \(article.publishedDate  ?? "NA")"
+            self.articleTitleLabel.attributedText = attributedString(boldText: "Title: ", normalText: article.title ?? "")
+            self.articleDescriptionLabel.attributedText = attributedString(boldText: "Description: ", normalText: article.abstract ?? "")
+            self.articlePublishedDateLabel.attributedText = attributedString(boldText: "Published Date: ", normalText: article.publishedDate ?? "")
             
-            let imageUrl = TAUtility().getArticleThumbnailUrl(article: article)
+            let imageUrl = NYUtility.getArticleThumbnailUrl(article: article)
             // Start background thread so that image loading does not make app unresponsive
             DispatchQueue.global(qos: .userInitiated).async {
             
@@ -41,6 +41,17 @@ class ArticleDetailViewController: UIViewController, WKNavigationDelegate {
                 }
             }
         }
+    }
+    
+    private func attributedString(boldText: String, normalText: String) -> NSMutableAttributedString {
+        let boldAttributes = [NSAttributedStringKey.font: UIFont.boldSystemFont(ofSize: 16)]
+        let attributedString = NSMutableAttributedString(string: boldText, attributes: boldAttributes)
+        
+        let normalAttributes = [NSAttributedStringKey.font: UIFont.systemFont(ofSize: 15)]
+        let normalString = NSMutableAttributedString(string: normalText, attributes: normalAttributes)
+        
+        attributedString.append(normalString)
+        return attributedString
     }
     
     override func viewDidLoad() {
